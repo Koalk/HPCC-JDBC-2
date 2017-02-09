@@ -33,6 +33,13 @@ First build using the test profile
 Execute the jar as a target with
 `java -jar <jdbcdriver-*-test-jar-with-dependencies.jar> <parameters>
 Small stuff
+
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
 1. Two files are required:
 	a) configuration file- Target HPCC system connection information
 	b) Test script file- Contains SQL test cases
@@ -59,6 +66,11 @@ Test1=[true;1]< sqlstatements>
   - Updated dependency to org.hpccsystems.wsclient:1.0.0
     - Refactoring for WsClient pooling
   - Readme updates
+  - pom packaging and jdbc.testsuite changes
+
+#### Resources
+- https://hpccsystems.com
+- https://github.com/hpcc-systems/hpcc-jdbc.git
   - pom packaging and jdbc.testsuite changes
 
 #### Resources
