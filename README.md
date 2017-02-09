@@ -32,6 +32,12 @@ First build using the test profile
 
 Execute the jar as a target with
 `java -jar <jdbcdriver-*-test-jar-with-dependencies.jar> <parameters>
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
+LAST MOMENT FIX
 
 1. Two files are required:
 	a) configuration file- Target HPCC system connection information
