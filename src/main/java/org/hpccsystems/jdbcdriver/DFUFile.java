@@ -85,7 +85,7 @@ public class DFUFile
         this.fileName = filename;
         this.fullyQualifiedName = filename;
     }
-
+//Small stuff
     public DFUFile(String prefix, String clusterName, String directory, String description, int parts, String filename,
             String fullyqualifiedname, String owner, long totalSize, long recordCount, String modified, long longSize,
             long longRecordCount, boolean isSuperFile, boolean isZipFile, boolean isDirectory, int replicate,
@@ -124,7 +124,7 @@ public class DFUFile
             this.ecl = ecl;
             setFileRecDef(ecl);
         }
-    }
+    }//Small stuff
 
     public DFUFile() {}
 

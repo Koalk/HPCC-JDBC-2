@@ -28,11 +28,11 @@ To utilize this library as a dependency in your own maven project, simply add th
 
 #### Testing
 First build using the test profile
-`mvn clean install -P jdbc.testsuite`
+`mvn clean install -P jdbc.testsuite`Small stuff
 
 Execute the jar as a target with
 `java -jar <jdbcdriver-*-test-jar-with-dependencies.jar> <parameters>
-
+Small stuff
 1. Two files are required:
 	a) configuration file- Target HPCC system connection information
 	b) Test script file- Contains SQL test cases
