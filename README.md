@@ -1,3 +1,5 @@
+This is from 321
+
 JDBC driver
 =======================
 
@@ -22,6 +24,8 @@ To utilize this library as a dependency in your own maven project, simply add th
 #### Build
 
 1. Check out sources (git clone https://github.com/hpcc-systems/hpcc-jdbc.git)
+2. cd to the project root directory
+2. cd to the project root directoryHi people
 2. cd to the project root directoryNow I am in 123
 3. Run `mvn install` to execute the build using Maven (`mvn install -P jdbc.testsuite` to build unit tests)Now I am in 123
 4. Jar file will be created in <project_root>/target/jdbcdriver-MAJOR.MINOR.POINT[-SNAPSHOT].jarNow I am in 123
@@ -33,17 +37,16 @@ First build using the test profile
 Execute the jar as a target with
 `java -jar <jdbcdriver-*-test-jar-with-dependencies.jar> <parameters>
 Small stuff
-
+1. Two files are required:Hi people
 LAST MOMENT FIX
 LAST MOMENT FIX
 LAST MOMENT FIX
 LAST MOMENT FIX
 LAST MOMENT FIX
 LAST MOMENT FIX
-1. Two files are required:
 	a) configuration file- Target HPCC system connection information
 	b) Test script file- Contains SQL test cases
-		Test cases are specified using following format:
+		Test cases are specified using following format:Hi people
 		= ["["ExpectSuccess;MinResultExpected[;DataFile]"]"]
 		Where:
 		ExpectedSuccess = true|false - true signifies that the test case should succeed, false it should fail.
@@ -72,8 +75,9 @@ Test1=[true;1]< sqlstatements>
 - https://hpccsystems.com
 - https://github.com/hpcc-systems/hpcc-jdbc.git
   - pom packaging and jdbc.testsuite changes
-
+Hi people321
 #### Resources
 - https://hpccsystems.com
 - https://github.com/hpcc-systems/hpcc-jdbc.git
 
+Hi people321
