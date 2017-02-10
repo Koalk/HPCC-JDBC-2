@@ -8,6 +8,7 @@
 	<description>JDBC Driver for HPCC Systems - access HPCC data via SQL in Java or other JVM language</description>
 	<url>https://hpccsystems.com</url>
 	<licenses>
+<!-- 	Small stuff -->
 		<license>
 			<name>Apache License, Version 2.0</name>
 			<url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
@@ -15,6 +16,7 @@
 		</license>
 	</licenses>
 	<properties>
+<!-- 	Small stuff -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<scm>
